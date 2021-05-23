@@ -15,7 +15,7 @@ export default function App() {
 </main>
 
 <footer className="footer">
-Coded by <strong>Lina Pek </strong> and opensourced on <a href="#">GitHub</a>
+Coded by <strong>Lina Pek </strong> and opensourced on <a href="https://github.com/carpek/dictionary-react">GitHub</a>
 </footer>
  
     </div>
